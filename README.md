@@ -30,10 +30,13 @@
 
 
 ## HW 5
-* 
+* Kullback-Leibler Divergence
+* Bootstrapping 
 
 
-
-
-project data files
-https://www.dropbox.com/sh/ya4f9pljej8dbsw/AADgmzFOEM0sdeSiLEBhkKmCa?dl=0
+## Project
+* Analysis of 60 GB of Federal Government Transaction Records Using Bash/Python
+* EDA of Transactions That Related to Education
+* Interactive Visualizations of Data
+* Fitting Linear Regression Models of Spending
+* project data files: https://www.dropbox.com/sh/ya4f9pljej8dbsw/AADgmzFOEM0sdeSiLEBhkKmCa?dl=0
