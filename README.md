@@ -35,7 +35,7 @@
 
 
 ## Project
-* Analysis of 60 GB of Federal Government Transaction Records Using Bash/Python
+* Processing of 60 GB of Federal Government Transaction Records Using Bash
 * EDA of Transactions That Related to Education
 * Interactive Visualizations of Data
 * Fitting Linear Regression Models of Spending
