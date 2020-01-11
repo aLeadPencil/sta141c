@@ -45,5 +45,5 @@
 ## Note
 * To view HTML files use the following format
   * https://aleadpencil.github.io/sta141c/'folder_name'/'file_name'
-  * e.g. https://aleadpencil.github.io/sta141c/hw1/hw1.html
+  * e.g. https://aleadpencil.github.io/sta141c/hw1/HW1.html
 
