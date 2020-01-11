@@ -40,3 +40,9 @@
 * Interactive Visualizations of Data
 * Fitting Linear Regression Models of Spending
 * project data files: https://www.dropbox.com/sh/ya4f9pljej8dbsw/AADgmzFOEM0sdeSiLEBhkKmCa?dl=0
+
+
+## Note
+* To view HTML files use the following format
+  * https://aleadpencil.github.io/sta141c/hw1/HW1.html
+
