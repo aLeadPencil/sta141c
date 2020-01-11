@@ -1,7 +1,8 @@
 # STA 141C Big Data & High Performance Statistical Computing
 
 ## Concepts Covered
-
+* Big Data Computing in R
+* Parallel 
 
 
 project data files
